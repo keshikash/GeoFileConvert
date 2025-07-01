@@ -57,15 +57,15 @@
 
 
 ##  Contributing
+
 Feel free to open issues or submit pull requests if you’d like to improve or extend the plugin.
 
-## Acknowledgements
+##  Acknowledgements
+
 **This plugin was developed using:**
--QGIS Python API (PyQGIS)
--Qt Designer
--Python Standard Library
-
-
+- [QGIS Python API (PyQGIS)](https://qgis.org/pyqgis)
+- [Qt Designer](https://doc.qt.io/qtforpython-6/quickstart.html)
+- Python Standard Library
 
 ## Support
 
