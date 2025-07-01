@@ -56,6 +56,17 @@
    git clone https://github.com/yourusername/GeoFileConvert.git
 
 
+##  Contributing
+Feel free to open issues or submit pull requests if you’d like to improve or extend the plugin.
+
+## Acknowledgements
+**This plugin was developed using:**
+-QGIS Python API (PyQGIS)
+-Qt Designer
+-Python Standard Library
+
+
+
 ## Support
 
 For issues, bugs, or feature requests, contact:
