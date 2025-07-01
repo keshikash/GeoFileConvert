@@ -29,15 +29,15 @@
 
 
 
-##  Screenshots
+## Interface Preview
 
-CSV to KML (Points) 
+###  CSV to KML (Points) 
 ![Image](https://github.com/user-attachments/assets/7bc7645c-4db5-4d95-8758-358b422a0360) 
 
-CSV to KML (Lines) 
+###  CSV to KML (Lines) 
 ![Image](https://github.com/user-attachments/assets/a52d2ce7-b9eb-4762-b34d-9b4a0ce698e4) 
 
-CSV to KML (Lines) - With features selected
+###  CSV to KML (Lines) - With features selected
 ![Image](https://github.com/user-attachments/assets/66471359-24d5-42c1-b1b8-0ef679c795fd) 
 
 
@@ -54,3 +54,14 @@ CSV to KML (Lines) - With features selected
 
    ```bash
    git clone https://github.com/yourusername/GeoFileConvert.git
+
+
+## Support
+
+For issues, bugs, or feature requests, contact:
+b22ee040@iitj.ac.in
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
